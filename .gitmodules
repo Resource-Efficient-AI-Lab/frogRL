@@ -1,0 +1,3 @@
+[submodule "frogRL-nn/ggml"]
+	path = frogRL-nn/ggml
+	url = https://github.com/ggerganov/ggml.git
