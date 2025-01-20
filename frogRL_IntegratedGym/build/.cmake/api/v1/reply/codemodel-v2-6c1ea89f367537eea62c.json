@@ -1,0 +1,376 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						5
+					]
+				},
+				{
+					"build" : "example",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-example-Release-b6fca4a6d0a37c6ae6b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "example",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "example/lib/spdlog",
+					"jsonFile" : "directory-example.lib.spdlog-Release-dd4aa7de5edb270b0518.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "example/lib/spdlog",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "example/lib/libzmq",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-example.lib.libzmq-Release-02a6db37529fd6bf49c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.2"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "example/lib/libzmq",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-src-Release-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src"
+				},
+				{
+					"build" : "src/algorithms",
+					"jsonFile" : "directory-src.algorithms-Release-8f95d858efe5cd23f2ac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/algorithms"
+				},
+				{
+					"build" : "src/distributions",
+					"jsonFile" : "directory-src.distributions-Release-190f8c29ec4db6794d3b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/distributions"
+				},
+				{
+					"build" : "src/generators",
+					"jsonFile" : "directory-src.generators-Release-2b41c95735f774f5f813.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/generators"
+				},
+				{
+					"build" : "src/model",
+					"jsonFile" : "directory-src.model-Release-4cacfdfa714b48e7c0f6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/model"
+				},
+				{
+					"build" : "src/third_party",
+					"jsonFile" : "directory-src.third_party-Release-061eb36f00609c19c943.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/third_party"
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"name" : "CppRl",
+					"targetIndexes" : 
+					[
+						1,
+						5,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "spdlog",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "ZeroMQ",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "benchmark_radix_tree::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-benchmark_radix_tree-Release-57cbd6ad6688787032e4.json",
+					"name" : "benchmark_radix_tree",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check-Release-f9032dc87e2be92e0e02.json",
+					"name" : "check",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "clang-format::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-clang-format-Release-dc747282fee6e5e2ae6c.json",
+					"name" : "clang-format",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "clang-format-check::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-clang-format-check-Release-fb0f0233bc4de721fa98.json",
+					"name" : "clang-format-check",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "clang-format-diff::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-clang-format-diff-Release-1139c191d732e84aa822.json",
+					"name" : "clang-format-diff",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpprl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpprl-Release-d00584117f6e866c041a.json",
+					"name" : "cpprl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gym_client::@70983d692f648185febe",
+					"jsonFile" : "target-gym_client-Release-15ca781650cca313bbe8.json",
+					"name" : "gym_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "inproc_lat::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-inproc_lat-Release-789dee5724eacaceb3aa.json",
+					"name" : "inproc_lat",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "inproc_thr::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-inproc_thr-Release-f2816883ae3b12a3f8b2.json",
+					"name" : "inproc_thr",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "libzmq::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-libzmq-Release-5317b846e5c978724bd8.json",
+					"name" : "libzmq",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "libzmq-static::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-libzmq-static-Release-dc9cb5440e7454b3303e.json",
+					"name" : "libzmq-static",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "local_lat::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-local_lat-Release-f85024596e4202b82248.json",
+					"name" : "local_lat",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "local_thr::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-local_thr-Release-91a1fb86c5627211ef5b.json",
+					"name" : "local_thr",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "objects::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-objects-Release-98d62f8b5ef10c68d0ea.json",
+					"name" : "objects",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "proxy_thr::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-proxy_thr-Release-d538fef31cb82a9ea417.json",
+					"name" : "proxy_thr",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "remote_lat::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-remote_lat-Release-9426712a0a5e7a022a2c.json",
+					"name" : "remote_lat",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "remote_thr::@bb0d8ad38f82e32fb8f7",
+					"jsonFile" : "target-remote_thr-Release-f118d0c3c87b1143fba7.json",
+					"name" : "remote_thr",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "spdlog::@3200348fa0cb5032a0ec",
+					"jsonFile" : "target-spdlog-Release-70f09749318cc397e4ca.json",
+					"name" : "spdlog",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/niharpatel/Desktop/Quant/ReinforcementLearning/pytorch-cpp-rl/build",
+		"source" : "/Users/niharpatel/Desktop/Quant/ReinforcementLearning/pytorch-cpp-rl"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

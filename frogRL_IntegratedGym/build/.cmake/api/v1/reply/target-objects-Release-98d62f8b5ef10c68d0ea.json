@@ -1,0 +1,2170 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/tweetnacl.c.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/precompiled.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/address.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/client.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/clock.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/ctx.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/curve_mechanism_base.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/curve_client.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/curve_server.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/dealer.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/devpoll.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/dgram.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/dist.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/endpoint.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/epoll.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/err.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/fq.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/io_object.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/io_thread.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/ip.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/ipc_address.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/ipc_connecter.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/ipc_listener.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/kqueue.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/lb.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/mailbox.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/mailbox_safe.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/mechanism.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/mechanism_base.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/metadata.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/msg.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/mtrie.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/norm_engine.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/object.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/options.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/own.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/null_mechanism.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/pair.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/pgm_receiver.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/pgm_sender.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/pgm_socket.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/pipe.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/plain_client.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/plain_server.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/poll.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/poller_base.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/polling_util.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/pollset.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/proxy.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/pub.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/pull.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/push.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/random.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/raw_encoder.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/raw_decoder.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/reaper.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/rep.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/req.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/router.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/select.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/server.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/session_base.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/signaler.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/socket_base.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/socks.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/socks_connecter.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/stream.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/stream_engine.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/sub.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/tcp.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/tcp_address.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/tcp_connecter.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/tcp_listener.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/thread.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/trie.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/radix_tree.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/v1_decoder.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/v1_encoder.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/v2_decoder.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/v2_encoder.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/xpub.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/xsub.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/zmq.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/zmq_utils.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/decoder_allocators.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/socket_poller.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/timers.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/radio.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/dish.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/udp_engine.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/udp_address.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/scatter.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/gather.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/ip_resolver.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/zap_client.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/stream_connecter_base.cpp.o"
+		},
+		{
+			"path" : "example/lib/libzmq/CMakeFiles/objects.dir/./src/stream_listener_base.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_definitions",
+			"include_directories",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"example/lib/libzmq/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1138,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 12,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 10,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 9,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 11,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 399,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 140,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 548,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 398,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 77,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1140,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=gnu11 -Wno-tautological-constant-compare -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -mmacosx-version-min=14.6 -fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "DOCTEST_CONFIG_DISABLE_DEBUGGER_BREAK"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "DOCTEST_CONFIG_DISABLE_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "DOCTEST_CONFIG_NO_DEBUGGER"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "DOCTEST_CONFIG_NO_INLINE_ASM"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "DOCTEST_CONFIG_NO_POSIX_SIGNALS"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "ZMQ_BUILD_DRAFT_API"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "ZMQ_CUSTOM_PLATFORM_HPP"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "ZMQ_USE_RADIX_TREE"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "_DARWIN_C_SOURCE"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "_REENTRANT"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "_THREAD_SAFE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 13,
+					"path" : "/opt/homebrew/Cellar/zeromq/4.3.5_1/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/niharpatel/Desktop/Quant/ReinforcementLearning/pytorch-cpp-rl/example/lib/libzmq/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/niharpatel/Desktop/Quant/ReinforcementLearning/pytorch-cpp-rl/build/example/lib/libzmq"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -O2 -std=gnu++11 -Wno-tautological-constant-compare -Wall -Wextra -Wno-long-long -Wno-uninitialized -pedantic -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -mmacosx-version-min=14.6 -fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "DOCTEST_CONFIG_DISABLE_DEBUGGER_BREAK"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "DOCTEST_CONFIG_DISABLE_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "DOCTEST_CONFIG_NO_DEBUGGER"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "DOCTEST_CONFIG_NO_INLINE_ASM"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "DOCTEST_CONFIG_NO_POSIX_SIGNALS"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "ZMQ_BUILD_DRAFT_API"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "ZMQ_CUSTOM_PLATFORM_HPP"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "ZMQ_USE_RADIX_TREE"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "_DARWIN_C_SOURCE"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "_REENTRANT"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "_THREAD_SAFE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 13,
+					"path" : "/opt/homebrew/Cellar/zeromq/4.3.5_1/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/niharpatel/Desktop/Quant/ReinforcementLearning/pytorch-cpp-rl/example/lib/libzmq/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/niharpatel/Desktop/Quant/ReinforcementLearning/pytorch-cpp-rl/build/example/lib/libzmq"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				197,
+				199
+			]
+		}
+	],
+	"id" : "objects::@bb0d8ad38f82e32fb8f7",
+	"name" : "objects",
+	"paths" : 
+	{
+		"build" : "example/lib/libzmq",
+		"source" : "example/lib/libzmq"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				197,
+				199
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				87,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				186,
+				187,
+				188,
+				189,
+				190,
+				191,
+				192,
+				193,
+				194,
+				195,
+				196,
+				198,
+				200,
+				201,
+				202,
+				203,
+				204,
+				205,
+				206,
+				207,
+				208,
+				209,
+				210,
+				211,
+				212,
+				213,
+				214,
+				215,
+				216,
+				217,
+				218,
+				219,
+				220,
+				221,
+				222,
+				223,
+				224,
+				225,
+				226,
+				227,
+				228,
+				229,
+				230,
+				231
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/lib/libzmq/src/tweetnacl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/precompiled.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/address.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/client.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/clock.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/ctx.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/curve_mechanism_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/curve_client.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/curve_server.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/dealer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/devpoll.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/dgram.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/dist.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/endpoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/epoll.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/err.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/fq.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/io_object.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/io_thread.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/ip.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/ipc_address.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/ipc_connecter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/ipc_listener.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/kqueue.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/lb.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/mailbox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/mailbox_safe.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/mechanism.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/mechanism_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/metadata.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/msg.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/mtrie.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/norm_engine.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/object.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/options.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/own.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/null_mechanism.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/pair.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/pgm_receiver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/pgm_sender.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/pgm_socket.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/pipe.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/plain_client.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/plain_server.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/poll.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/poller_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/polling_util.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/pollset.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/proxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/pub.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/pull.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/push.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/random.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/raw_encoder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/raw_decoder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/reaper.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/rep.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/req.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/router.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/select.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/server.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/session_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/signaler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/socket_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/socks.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/socks_connecter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/stream.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/stream_engine.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/sub.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/tcp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/tcp_address.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/tcp_connecter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/tcp_listener.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/thread.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/trie.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/radix_tree.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/v1_decoder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/v1_encoder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/v2_decoder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/v2_encoder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/xpub.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/xsub.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/zmq.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/zmq_utils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/decoder_allocators.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/socket_poller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/timers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/config.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/radio.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/dish.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/udp_engine.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/udp_address.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/scatter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/gather.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/ip_resolver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/zap_client.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/address.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/array.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/atomic_counter.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/atomic_ptr.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/blob.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/client.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/clock.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/command.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/condition_variable.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/ctx.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/curve_client.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/curve_client_tools.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/curve_mechanism_base.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/curve_server.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/dbuffer.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/dealer.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/decoder.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/decoder_allocators.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/devpoll.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/dgram.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/dish.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/dist.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/encoder.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/endpoint.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/epoll.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/err.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/fd.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/fq.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/gather.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/generic_mtrie.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/generic_mtrie_impl.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/gssapi_client.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/gssapi_mechanism_base.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/gssapi_server.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/i_decoder.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/i_encoder.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/i_engine.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/i_mailbox.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/i_poll_events.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/io_object.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/io_thread.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/ip.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/ipc_address.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/ipc_connecter.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/ipc_listener.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/kqueue.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/lb.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/likely.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/macros.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/mailbox.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/mailbox_safe.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/mechanism.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/mechanism_base.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/metadata.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/msg.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/mtrie.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/mutex.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/norm_engine.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/null_mechanism.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/object.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/options.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/own.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/pair.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/pgm_receiver.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/pgm_sender.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/pgm_socket.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/pipe.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/plain_client.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/plain_common.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/plain_server.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/poll.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/poller.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/poller_base.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/polling_util.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/pollset.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/precompiled.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/proxy.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/pub.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/pull.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/push.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/radio.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/random.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/raw_decoder.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/raw_encoder.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/reaper.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/rep.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/req.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/router.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/scatter.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/select.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/server.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/session_base.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/signaler.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/socket_base.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/socket_poller.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/socks.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/socks_connecter.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/stdint.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/stream.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/stream_engine.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/stream_connecter_base.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/stream_connecter_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/stream_listener_base.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "example/lib/libzmq/src/stream_listener_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/sub.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/tcp.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/tcp_address.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/tcp_connecter.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/tcp_listener.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/thread.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/timers.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/tipc_address.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/tipc_connecter.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/tipc_listener.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/trie.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/udp_address.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/udp_engine.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/v1_decoder.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/v1_encoder.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/v2_decoder.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/v2_encoder.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/v2_protocol.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/vmci.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/vmci_address.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/vmci_connecter.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/vmci_listener.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/windows.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/wire.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/xpub.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/xsub.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/ypipe.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/ypipe_base.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/ypipe_conflate.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/yqueue.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "example/lib/libzmq/src/zap_client.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build/example/lib/libzmq/platform.hpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}
