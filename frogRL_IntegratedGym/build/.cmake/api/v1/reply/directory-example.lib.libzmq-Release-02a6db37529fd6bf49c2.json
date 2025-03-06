@@ -1,0 +1,345 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"example/lib/libzmq/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1005,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1302,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1302,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1302,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1302,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1302,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1302,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1302,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1361,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1384,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1384,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1384,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1384,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1412,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1415,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"build/example/lib/libzmq/libzmq.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "PerfTools",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"example/lib/libzmq/bin/local_lat"
+			],
+			"targetId" : "local_lat::@bb0d8ad38f82e32fb8f7",
+			"targetIndex" : 11,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "PerfTools",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"example/lib/libzmq/bin/remote_lat"
+			],
+			"targetId" : "remote_lat::@bb0d8ad38f82e32fb8f7",
+			"targetIndex" : 15,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "PerfTools",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"example/lib/libzmq/bin/local_thr"
+			],
+			"targetId" : "local_thr::@bb0d8ad38f82e32fb8f7",
+			"targetIndex" : 12,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "PerfTools",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"example/lib/libzmq/bin/remote_thr"
+			],
+			"targetId" : "remote_thr::@bb0d8ad38f82e32fb8f7",
+			"targetIndex" : 16,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "PerfTools",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"example/lib/libzmq/bin/inproc_lat"
+			],
+			"targetId" : "inproc_lat::@bb0d8ad38f82e32fb8f7",
+			"targetIndex" : 7,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "PerfTools",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"example/lib/libzmq/bin/inproc_thr"
+			],
+			"targetId" : "inproc_thr::@bb0d8ad38f82e32fb8f7",
+			"targetIndex" : 8,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "PerfTools",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"example/lib/libzmq/bin/proxy_thr"
+			],
+			"targetId" : "proxy_thr::@bb0d8ad38f82e32fb8f7",
+			"targetIndex" : 14,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"example/lib/libzmq/lib/libzmq.5.2.2.dylib",
+				"example/lib/libzmq/lib/libzmq.5.dylib"
+			],
+			"targetId" : "libzmq::@bb0d8ad38f82e32fb8f7",
+			"targetIndex" : 9,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"example/lib/libzmq/lib/libzmq.dylib"
+			],
+			"targetId" : "libzmq::@bb0d8ad38f82e32fb8f7",
+			"targetIndex" : 9,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"example/lib/libzmq/include/zmq.h",
+				"example/lib/libzmq/include/zmq_utils.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"example/lib/libzmq/lib/libzmq.a"
+			],
+			"targetId" : "libzmq-static::@bb0d8ad38f82e32fb8f7",
+			"targetIndex" : 10,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"example/lib/libzmq/include/zmq.h",
+				"example/lib/libzmq/include/zmq_utils.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "share/zmq",
+			"paths" : 
+			[
+				"build/example/lib/libzmq/AUTHORS.txt"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "share/zmq",
+			"paths" : 
+			[
+				"build/example/lib/libzmq/COPYING.txt"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "share/zmq",
+			"paths" : 
+			[
+				"build/example/lib/libzmq/COPYING.LESSER.txt"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "share/zmq",
+			"paths" : 
+			[
+				"build/example/lib/libzmq/NEWS.txt"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "share/cmake/ZeroMQ",
+			"exportName" : "ZeroMQ-targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "libzmq::@bb0d8ad38f82e32fb8f7",
+					"index" : 9
+				},
+				{
+					"id" : "libzmq-static::@bb0d8ad38f82e32fb8f7",
+					"index" : 10
+				}
+			],
+			"paths" : 
+			[
+				"example/lib/libzmq/CMakeFiles/Export/a0537dc44d4c91884b52d5351d02fc37/ZeroMQTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "share/cmake/ZeroMQ",
+			"paths" : 
+			[
+				"build/example/lib/libzmq/ZeroMQConfig.cmake",
+				"build/example/lib/libzmq/ZeroMQConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "example/lib/libzmq",
+		"source" : "example/lib/libzmq"
+	}
+}
