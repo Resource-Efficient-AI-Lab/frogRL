@@ -1,5 +1,6 @@
-<img src="logo.png" alt="Logo" width="50"/> # FrogRL
+# FrogRL
 
+<img src="logo.png" alt="Logo" width="50"/> 
 A reinforcement learning framework written in C++ using PyTorch's C++ frontend (LibTorch).
 
 ## Overview
