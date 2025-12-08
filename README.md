@@ -71,37 +71,6 @@ cmake ..
 make -j$(nproc)
 ```
 
-### Running
-
-**Terminal 1 - Start Gym Server:**
-```bash
-cd frogRL_IntegratedGym
-python launch_gym_server.py
-```
-
-**Terminal 2 - Run Training:**
-```bash
-cd frogRL_IntegratedGym/build/example
-./gym_client_integrated
-```
-
-## Usage Examples
-
-### Deep RL (FastTD3)
-```cpp
-// In gym_client_integrated.cpp
-const std::string algorithm = "FastTD3";
-const std::string env_name = "LunarLander-v3";
-```
-
-### Tabular (Standalone)
-```cpp
-#include "Algorithms/QLearning.h"
-
-QLearning* agent = create_q_learning(0.1, 0.99, 0.1);  // alpha, gamma, epsilon
-update_q_learning(agent, state, action, reward, next_state);
-```
-
 ## Dependencies
 
 **C++ (Client)**
