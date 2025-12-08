@@ -1,0 +1,6 @@
+frogRL_IntegratedGym/build*
+frogRL_IntegratedGym/examples/lib/spdlog*
+frogRL_IntegratedGym/libtorch*
+frogRL_IntegratedGym/swig*
+/frogRL_IntegratedGym/gym_server/__pycache__
+**/.vs
